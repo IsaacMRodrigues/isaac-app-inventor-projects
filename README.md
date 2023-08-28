@@ -5,5 +5,5 @@
  - Acesse [PROJETOS](https://github.com/IsaacMRodrigues/isaac-app-inventor-projects/tree/master/PROJETOS)
 
 ### Versões 
- - Versão para Android [v1.0](https://github.com/IsaacMRodrigues/isaac-app-inventor-projects/releases/tag/auto)
- - Versão para ios [v1.0](https://github.com/IsaacMRodrigues/isaac-app-inventor-projects/releases/tag/auto1)
+ - Versão para Android [v1.0](https://github.com/IsaacMRodrigues/isaac-app-inventor-projects/releases/tag/v1.0)
+ - Versão para ios [v1.0](https://github.com/IsaacMRodrigues/isaac-app-inventor-projects/releases/tag/v1.1)
